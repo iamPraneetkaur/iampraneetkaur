@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Competitive programming.**
 
-- 📫 How to reach me **kpraneet142@gmail.com**
+- 📫 How to reach me **itspraneetkaur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
